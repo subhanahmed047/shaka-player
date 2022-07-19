@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.5](https://github.com/shaka-project/shaka-player/compare/v4.0.4...v4.0.5) (2022-07-19)
+
+
+### Bug Fixes
+
+* Update v4.0.x branch Cast receiver ID ([874fcd6](https://github.com/shaka-project/shaka-player/commit/874fcd64c8605c842be27b7bdd4457754e883f3e))
+
 ## [4.0.4](https://github.com/shaka-project/shaka-player/compare/v4.0.3...v4.0.4) (2022-07-14)
 
 
